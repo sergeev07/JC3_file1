@@ -1,0 +1,10 @@
+Директория /home/aleksandr/Game/savegame создана
+Директория /home/aleksandr/Game/temp создана
+Директория /home/aleksandr/Game/src/main создана
+Директория /home/aleksandr/Game/src/test создана
+Директория /home/aleksandr/Game/res/drawables создана
+Директория /home/aleksandr/Game/res/vectors создана
+Директория /home/aleksandr/Game/res/icons создана
+Файл /home/aleksandr/Game/src/main/Main.java создан
+Файл /home/aleksandr/Game/src/main/Utils.java создан
+Файл /home/aleksandr/Game/temp/temp.txt создан
